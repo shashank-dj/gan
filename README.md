@@ -1,6 +1,6 @@
 # Generative modeling 
 
-** Find the GAN pack on WWW.cellstrathub.com
+** Find the GAN pack on www.cellstrathub.com
 
 Generative modelling is an unsupervised form of machine learning in which the model learns to find patterns in the 
 data it is given. The model may generate new data on its own, which is related to the original training dataset, 
